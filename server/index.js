@@ -8,7 +8,7 @@ const authRouter = require("./routes/auth");
 //INITIALIZATION
 const PORT = 3000;
 const app = express()
-const DB = "mongodb+srv://shubham:shubham123@cluster0.vb3wmmd.mongodb.net/?retryWrites=true&w=majority";
+const DB = "mongodb+srv://";
 
 //adding middleware
 //CLINT SIDE - > MIIDLE WARE- >  SERVER SIDE - > CLIENT SIDE
